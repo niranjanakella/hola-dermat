@@ -2,6 +2,8 @@
 
 A Streamlit-based chat application that provides personalized skincare recommendations using CrewAI agents, Qdrant vector database, and Perplexity search.
 
+![Demo of Hola-Dermat in action](demo.gif)
+
 ## Features
 
 - **Interactive Chat Interface**: Natural conversation flow to understand user's skin type, region, lifestyle, and needs
